@@ -1,5 +1,5 @@
 # Banking-App
-Banking System App built using SQLite database through which user can transfer money from one account to another account. This App is built for Task#2 of Graduate Rotational Intership Program(GRIP) of The Sparks Foundation.
+Banking System App built using SQLite database through which user can transfer money from one account to another account. This App is built for Task#2 of Graduate Rotational Internship Program(GRIP) of The Sparks Foundation.
 
 #### Some features of this app are:-
 
